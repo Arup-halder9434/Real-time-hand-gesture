@@ -10,8 +10,7 @@ The system tracks hand movements via webcam and dynamically interacts with anima
 ---
 
 ## 🌐 Live Demo
-🚀 https://real-time-hand-gesture.vercel.app  
-*(Replace with your actual Vercel URL if different)*
+🚀 https://real-time-hand-gesture-jet.vercel.app/
 
 ---
 
